@@ -1,0 +1,35 @@
+
+.player{
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.playerpix{
+	display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 25%;
+}
+
+.comps{
+	font-size: 25px;
+	text-align: center;
+}
+
+.comppix {
+	display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 25%;
+}
+
+.text{
+	font-size: 40px;
+	text-align: center;
+	color: red;
+}
+
+.button{
+	text-align: center;
+}
